@@ -7,4 +7,4 @@ const counterReducer = (state = 0, action) => {
   }
 }
 
-export default combineReducers;
+export default counterReducer;
